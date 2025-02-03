@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello, I'm hlxllo 👋
 
-<!--
-**hlxllo/hlxllo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I'm a Computer Science and Technology undergraduate with a focus on Java backend development. I have completed two internships, where I honed my skills in building scalable and efficient backend systems. I am passionate about writing clean, maintainable code and continuously learning new technologies to enhance my development capabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+
+- **Programming Languages:** Java, Python, JavaScript
+- **Frameworks & Libraries:** Spring Boot
+- **Databases:** MySQL, Redis
+- **Tools & Platforms:** Git, Docker
+- **Others:** RESTful APIs, Microservices Architecture, Design Patterns
+
+### Contact Me
+
+- **Email:** [3337174805@qq.com](mailto:3337174805@qq.com)
+- **GitHub:** [hlxllo](https://github.com/hlxllo)
