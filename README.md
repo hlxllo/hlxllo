@@ -6,8 +6,8 @@ I'm a Computer Science and Technology undergraduate with a focus on Java backend
 
 ### Skills & Technologies
 
-- **Programming Languages:** Java, Python, JavaScript
-- **Frameworks & Libraries:** Spring Boot
+- **Programming Languages:** Java
+- **Frameworks & Libraries:** Spring, Spring Boot, Spring Cloud, Mybatis, Mybatis Plus
 - **Databases:** MySQL, Redis
 - **Tools & Platforms:** Git, Docker
 - **Others:** RESTful APIs, Microservices Architecture, Design Patterns
