@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Computer Science and Technology undergraduate with a focus on Java backend development. I have completed two internships, where I honed my skills in building scalable and efficient backend systems. I am passionate about writing clean, maintainable code and continuously learning new technologies to enhance my development capabilities.
+I'm a Computer Science and Technology undergraduate with a focus on Java backend development. I have completed two intern projects, where I honed my skills in building scalable and efficient backend systems. I am passionate about writing clean, maintainable code and continuously learning new technologies to enhance my development capabilities.
 
 ### Skills & Technologies
 
